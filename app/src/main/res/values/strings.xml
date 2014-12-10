@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GroupsDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="delete">Delete</string>
+    <string name="enterGroupName">Enter group name</string>
+    <string name="groupNameNotNull">Group name must not be empty</string>
+    <string name="groupCategoryNotNull">Group category must not be empty</string>
+    <string name="membershipAddedSuccessfully">Membership added successfully</string>
+    <string name="courses">Courses</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="addGroupCategory">Add Group Category</string>
+    <string name="addGroup">Add Group</string>
+    <string name="enterCategoryName">Enter category name</string>
+    <string name="addUsers">Add Users</string>
+    <string name="emptyViewCategories">Tap the button below to add a category</string>
+    <string name="emptyViewGroup">Tap the button below to add a group</string>
+    <string name="emptyViewUsers">Tap the button below to add a user</string>
+
+</resources>
